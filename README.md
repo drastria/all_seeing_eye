@@ -6,11 +6,11 @@ Usage of All Seeing Eye for accessing restricted or private feeds without author
 ![All Seeing Eye](https://github.com/user-attachments/assets/14420f44-ca46-441b-bc06-61b4f62ceac4)
 
 ### Features
-- Dynamic Zone Scanning**: Scans and enumerates target zones (countries)
-- Headless Target Acquisition**: Utilizes a headless Chromium instance to acquire feed data undetected
-- Isolated Viewport Interface**: Launches a sandboxed, UI-less render window for direct feed monitoring
-- SSL/TLS Override Protocol**: Bypasses invalid certificate warnings to establish connections with misconfigured `HTTP` endpoints
-- Core Component Verification**: Verifies all required components are present at runtime
+- Dynamic Zone Scanning : Scans and enumerates target zones (countries)
+- Headless Target Acquisition : Utilizes a headless Chromium instance to acquire feed data undetected
+- Isolated Viewport Interface : Launches a sandboxed, UI-less render window for direct feed monitoring
+- SSL/TLS Override Protocol : Bypasses invalid certificate warnings to establish connections with misconfigured `HTTP` endpoints
+- Core Component Verification : Verifies all required components are present at runtime
 
 ### Usage:
 ```
