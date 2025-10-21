@@ -16,7 +16,7 @@ Usage of All Seeing Eye for accessing restricted or private feeds without author
 ```
 git clone https://github.com/drastria/all_seeing_eye
 cd all_seeing_eye
-python all_seeing_eye
+python all_seeing.py
 ```
 
 ### Install requirements (selenium and webdriver-manager):
